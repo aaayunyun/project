@@ -17,4 +17,4 @@ plot(mtcars$hp,mtcars$mpg)
 
 # Link to another File
 
-click [here](protttifidjcxos.qmd) to another file
+click [here](protttifidjcxos.html) to another file
